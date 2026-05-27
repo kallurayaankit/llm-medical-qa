@@ -1,0 +1,7 @@
+chroma_db
+venv
+.git
+__pycache__
+*.pyc
+model
+mlruns

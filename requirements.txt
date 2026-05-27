@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langchain-community
+chromadb
+sentence-transformers
+huggingface-hub
+beautifulsoup4
+requests
